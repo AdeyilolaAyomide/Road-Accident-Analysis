@@ -24,11 +24,15 @@ The following tasks were performed using Microsoft Excel:
 
 ### Data Cleaning 
 
-The data was analyzed to answer key questions including:
+The dataset was uploaded into the Power BI and then transformed using power query. Under Accident-severity column, "fetal" (a grammatical error) was changed to "fatal".
 
-1. 
+### Data Analysis 
 
-The visualization was done using Power BI. Find [dashboard](https://github.com/AdeyilolaAyomide/Data-Professionals-project/blob/b277fd37fb7780e09738275c561e57dd4f2b089d/Data%20Professionals%20presentation.pbix). Find [pdf_version](https://github.com/AdeyilolaAyomide/Data-Professionals-project/blob/b277fd37fb7780e09738275c561e57dd4f2b089d/Data%20Professionals%20presentation.pdf)
+
+
+### Data Visualization 
+
+The visualization was done using Power BI. Find [dashboard](https://github.com/AdeyilolaAyomide/Road-Accident-Analysis/blob/ae294bdee1adeada4cf6ee9a6f1214886ebd6a0c/Road%20accident%20dashboard.pdf)
 
 
 ### Results 
