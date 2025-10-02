@@ -30,7 +30,7 @@ The dataset was uploaded into the Power BI and then transformed using power quer
 The data was analysed using Power BI. The objectives of the analysis were to:
 1. Total casualties and accident value for 2022 and YoY growth
 2. Total casualties and accident severity for 2022 and YoY growth
-3. Total Casualties with respect to vehicle type, road type, light conditions (day/night), location (urban/rural), road surface conditions for 2022 Total Casualties with respect to vehicle type for 2022
+3. Total Casualties with respect to vehicle type, road_type, light conditions (day/night), location (urban/rural), road surface conditions for 2022 Total Casualties with respect to vehicle type for 2022
 4. Monthly trends showing comparison of casualties between 2022 ahd previous year.
 
 The visualization was created as a dashboard titled "Data Accident Analysis"
@@ -45,7 +45,7 @@ The results are as follows:
 2. There were 144.4k accidents in 2022 which is 11.7% lesser than the previous year
 3. Casualties (percentage change compared to previous year): Fatal = 2.9k (-33.3%), Serious = 27.0k (-16.2%), Slight= 165.8k (-10.6%)
 4. Casualties by vehicle type: Agricultural vehicle (399), Bus (6573), Car (155804), Motorcycle (15610), Van (15905), Others (1446).
-5. Casualties by road type: Single carriage way (145k), Dual carriage way(32k), Round about(13k), One way street (3k), slip road (3k)
+5. Casualties by road_type: Single carriageway (145k), Dual carriageway(32k), Round about(13k), One way street (3k), slip road (3k)
 6. Casualties by light conditions: Daylight (73.84%) Dark (26.16%)
 7. Casualties by location: Urban (61.95%), Rural (38.05%)
 8. Casualties by road surface conditions: Dry (132k), Wet/damp (50k), Frost/Ice (9k), Snow (4k), Flood over 3cm deep (<1k)
@@ -54,6 +54,5 @@ The results are as follows:
 ### Inference/Conclusion
 
 - There is 11.7% decrease in the number of accidents recorded in 2022 compared to previous year. This is a positive result which suggests that the interventions of relevant stakeholders in preventing road accidents are yielding positive outcome. Those interventions should be intensified.
-- Cars contribute highest 
-
-
+- Cars are the main vehicle tyoe involved in the accidents, and are responsible for over 70% of the casualties. More road traffic regulations should be targeted towards cars.
+- There is a strong association between road_type, light conditions (dark/daylight), location (urban/rural), road_surface_conditions and casualties with single carriageway, daylight, Urban and dry road surface respectively accounting for over 50% of the casualties recorded in each section.
