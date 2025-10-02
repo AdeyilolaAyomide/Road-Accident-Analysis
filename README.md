@@ -53,4 +53,7 @@ The results are as follows:
 
 ### Inference/Conclusion
 
-- hdjkd
+- There is 11.7% decrease in the number of accidents recorded in 2022 compared to previous year. This is a positive result which suggests that the interventions of relevant stakeholders in preventing road accidents are yielding positive outcome. Those interventions should be intensified.
+- Cars contribute highest 
+
+
