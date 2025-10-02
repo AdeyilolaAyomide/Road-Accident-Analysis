@@ -26,23 +26,31 @@ The following tasks were performed using Microsoft Excel:
 
 The dataset was uploaded into the Power BI and then transformed using power query. Under Accident-severity column, "fetal" (a grammatical error) was changed to "fatal".
 
-### Data Analysis 
+### Data Analysis and Visualization 
+The data was analysed using Power BI. The objectives of the analysis were to:
+1. Total casualties and accident value for 2022 and YoY growth
+2. Total casualties and accident severity for 2022 and YoY growth
+3. Total Casualties with respect to vehicle type, road type, light conditions (day/night), location (urban/rural), road surface conditions for 2022 Total Casualties with respect to vehicle type for 2022
+4. Monthly trends showing comparison of casualties between 2022 ahd previous year.
 
-
-
-### Data Visualization 
-
-The visualization was done using Power BI. Find [dashboard](https://github.com/AdeyilolaAyomide/Road-Accident-Analysis/blob/ae294bdee1adeada4cf6ee9a6f1214886ebd6a0c/Road%20accident%20dashboard.pdf)
+The visualization was created as a dashboard titled "Data Accident Analysis"
+Find [dashboard](https://github.com/AdeyilolaAyomide/Road-Accident-Analysis/blob/ae294bdee1adeada4cf6ee9a6f1214886ebd6a0c/Road%20accident%20dashboard.pdf)
 
 
 ### Results 
 
 The results are as follows:
 
-1. The average age of the professionals is 29.9 years
-2. The residence of the data professionals spans across 6 continents. However, 41.4% of the data professionals reside in the United States of America
-3. The work-life happiness scale of data professionals on a scale of 0-10 is 5.74
-4. The salary happiness scale of data professionals on a scale of 0-10 is 4.27
-5. Python is the favourite programming language of data  professionals
-6. Data scientists have the highest average salary of $97.38K per annum
-7. 
+1. There were 195.7K casualties in 2022 which is 11.9% lesser than the previous year
+2. There were 144.4k accidents in 2022 which is 11.7% lesser than the previous year
+3. Casualties (percentage change compared to previous year): Fatal = 2.9k (-33.3%), Serious = 27.0k (-16.2%), Slight= 165.8k (-10.6%)
+4. Casualties by vehicle type: Agricultural vehicle (399), Bus (6573), Car (155804), Motorcycle (15610), Van (15905), Others (1446).
+5. Casualties by road type: Single carriage way (145k), Dual carriage way(32k), Round about(13k), One way street (3k), slip road (3k)
+6. Casualties by light conditions: Daylight (73.84%) Dark (26.16%)
+7. Casualties by location: Urban (61.95%), Rural (38.05%)
+8. Casualties by road surface conditions: Dry (132k), Wet/damp (50k), Frost/Ice (9k), Snow (4k), Flood over 3cm deep (<1k)
+9. Month trend of casualties in 2022 and previous year shows that casualties are consistently highest in November cimpared to other months. Also shows that casualties are lesser in 2022 compared to previous year for all months except February where casualties in 2021 was a little lesser.
+
+### Inference/Conclusion
+
+- hdjkd
