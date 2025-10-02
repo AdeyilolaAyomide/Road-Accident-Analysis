@@ -49,10 +49,11 @@ The results are as follows:
 6. Casualties by light conditions: Daylight (73.84%) Dark (26.16%)
 7. Casualties by location: Urban (61.95%), Rural (38.05%)
 8. Casualties by road surface conditions: Dry (132k), Wet/damp (50k), Frost/Ice (9k), Snow (4k), Flood over 3cm deep (<1k)
-9. Month trend of casualties in 2022 and previous year shows that casualties are consistently highest in November cimpared to other months. Also shows that casualties are lesser in 2022 compared to previous year for all months except February where casualties in 2021 was a little lesser.
+9. Month trend of casualties in 2022 and previous year shows that casualties are consistently highest in November compared to other months. Also shows that casualties are lesser in 2022 compared to previous year for all months except February where casualties in 2021 was a little lesser.
 
-### Inference/Conclusion
+### Inferences/Recommendations
 
 - There is 11.7% decrease in the number of accidents recorded in 2022 compared to previous year. This is a positive result which suggests that the interventions of relevant stakeholders in preventing road accidents are yielding positive outcome. Those interventions should be intensified.
 - Cars are the main vehicle tyoe involved in the accidents, and are responsible for over 70% of the casualties. More road traffic regulations should be targeted towards cars.
-- There is a strong association between road_type, light conditions (dark/daylight), location (urban/rural), road_surface_conditions and casualties with single carriageway, daylight, Urban and dry road surface respectively accounting for over 50% of the casualties recorded in each section.
+- There is a strong relationship between road type, light conditions (daylight/dark), location (urban/rural), road surface conditions and the number of casualties in 2022. Specifically, single carriageways, daylight, urban areas, and dry road surfaces each account for over 50% of the casualties recorded within their respective categories.Hence, these factors should be considered and stricter road traffic regulations targeted towards them.
+- Both in 2021 and 2021, the month of November had highet record of casualties. This is suggestive of a seasonal influence in road traffic accidents. Relevant stakeholders should strategically implement more road safety measures during this season.
