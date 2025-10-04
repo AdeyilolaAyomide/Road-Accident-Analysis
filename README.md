@@ -3,7 +3,7 @@
 
 ### Project Overview 
 
-This data analysis projects is a systematic breakdown of road traffic accidents that occured within United Kindom between 1/1/2021 and 2/28/2022.
+This data analysis projects is a systematic breakdown of road traffic accidents that occured within United Kindom between 1/1/2021 and 2/28/2022 to identify key performance indicators and provide technical insights. 
 
 ### Data Source
 
@@ -49,7 +49,7 @@ The results are as follows:
 6. Casualties by light conditions: Daylight (73.84%) Dark (26.16%)
 7. Casualties by location: Urban (61.95%), Rural (38.05%)
 8. Casualties by road surface conditions: Dry (132k), Wet/damp (50k), Frost/Ice (9k), Snow (4k), Flood over 3cm deep (<1k)
-9. Month trend of casualties in 2022 and previous year shows that casualties are consistently highest in November compared to other months. Also shows that casualties are lesser in 2022 compared to previous year for all months except February where it was a little higher. 
+9. Month trend of casualties in 2022 and previous year shows that casualties are consistently highest in November compared to other months. Also shows that casualties are lesser in 2022 compared to previous year for all months except February where it was almost at the same level.
 
 ### Inferences/Recommendations
 
